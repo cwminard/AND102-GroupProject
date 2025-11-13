@@ -8,6 +8,7 @@ CodePath Mobile App Dev Assignment
 Team Brainstorming Output & Final Selection
 
 🧠 Step 1 — Brainstorming Ideas (6 Minimum)
+
 Flower App – Identify flowers using your camera
 Campus Food App – View campus food options, wait times, and deals
 Plant Discovery App – Identify plants and get care recommendations
@@ -17,6 +18,7 @@ HBCU Discovery App – Explore HBCUs, programs, student stories, and scholarship
 
 🧪 Step 2 — Evaluation of Top 3 Ideas
 (Evaluated using: Mobile, Story, Market, Habit, Scope)
+
 The team selected these three ideas as the strongest candidates:
 Plant Discovery App
 Flower App
@@ -24,6 +26,7 @@ HBCU Discovery App
 Below are the detailed evaluations.
 
 🌿 1. Plant Discovery App — Evaluation
+
 Description:
 Users take a photo of any plant to instantly identify the species and get care instructions.
 Mobile:
@@ -40,6 +43,7 @@ V2: Reminders, plant health tracking, saved plant collections
 V3: Community tips and a rare plant marketplace
 
 🌸 2. Flower App — Evaluation
+
 Description:
 Identify flowers through photos and learn their symbolism and ideal growing conditions.
 Mobile:
@@ -56,6 +60,7 @@ V2: Favorite/save flowers + growing guides
 V3: Bouquet builder + florist recommendations
 
 🎓 3. HBCU Discovery App — Evaluation
+
 Description:
 A centralized mobile guide to explore Historically Black Colleges and Universities, programs, scholarships, and campus culture.
 Mobile:
@@ -72,6 +77,7 @@ V2: Scholarship finder + application tracking
 V3: Campus community features + alumni networking
 
 🌼 Step 3 — Final App Idea Selection
+
 ✔ Chosen App: Flower Discovery App
 The team selected this idea because:
 Strong mobile-first experience using the camera
