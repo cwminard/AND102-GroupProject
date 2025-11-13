@@ -37,6 +37,7 @@ Market:
 Plant parents, gardeners, hikers, students with dorm plants, and nature enthusiasts.
 Habit:
 Users return frequently to check watering reminders, diagnose plant issues, and maintain plant care logs.
+
 Scope:
 V1: Photo identification + basic care tips
 V2: Reminders, plant health tracking, saved plant collections
@@ -54,6 +55,7 @@ Market:
 Florists, gardeners, hobbyists, students, and people interested in flower symbolism or gifting occasions.
 Habit:
 Users return when encountering new flowers, planning gardens, or creating bouquets.
+
 Scope:
 V1: Identify flower species + meaning
 V2: Favorite/save flowers + growing guides
@@ -71,6 +73,7 @@ Market:
 Prospective students, counselors, families, and school recruiters.
 Habit:
 Users revisit for scholarship updates, application deadlines, campus events, and program research.
+
 Scope:
 V1: Browse schools + filter by programs
 V2: Scholarship finder + application tracking
