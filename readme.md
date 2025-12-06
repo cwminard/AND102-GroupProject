@@ -16,8 +16,6 @@ Flower Discovery enables you to find the associated information with plants all 
 Flower Discovery has the power to transform your world, whether you're a botanist or just a regular person, curious about the plants and flowers that surroound you. This application will give you the answes to the questions you have about different species of plants and flowers.
 
 ### App Evaluation
-
-[Evaluation of your app across the following attributes]
 **Category**: Education / Utility
 **Mobile**: Mobile-first experience relying heavily on the camera for real-time flower identification.
 **Story**: Users frequently encounter flowers they cannot name. This app provides instant answers, symbolic meanings, and growing guides, creating a fun and educational experience.
