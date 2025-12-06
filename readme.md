@@ -17,10 +17,15 @@ Flower Discovery has the power to transform your world, whether you're a botanis
 
 ### App Evaluation
 **Category**: Education / Utility
+
 **Mobile**: Mobile-first experience relying heavily on the camera for real-time flower identification.
+
 **Story**: Users frequently encounter flowers they cannot name. This app provides instant answers, symbolic meanings, and growing guides, creating a fun and educational experience.
+
 **Market**: Gardeners, florists, students, hikers, nature lovers, and anyone interested in flowers or gifting.
+
 **Habit**: Users return whenever they encounter new flowers, plan gardens, or build their personal flower collections.
+
 **Scope**: Users should be able to login/signup, retrieve information about plant
 
 ## Product Spec
