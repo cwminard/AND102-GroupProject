@@ -46,12 +46,17 @@ Flower Discovery has the power to transform your world, whether you're a botanis
 
 ### 2. Screen Archetypes
 
-- [list first screen here]
-  - [list associated required story here]
-  - ...
-- [list second screen here]
-  - [list associated required story here]
-  - ...
+- Login/Sign Up
+  - As a user, I want to be able to log in or sign up for the application securely.
+
+<img width="174" height="382" alt="Screenshot 2025-12-06 175527" src="https://github.com/user-attachments/assets/61ba5a8d-9846-40fc-87fc-16ffe94e2812" />
+
+    
+- Plant Discovery
+  - As a user, I want to be able to discover new plants.
+
+  <img width="177" height="384" alt="Screenshot 2025-12-06 175541" src="https://github.com/user-attachments/assets/79511fc1-d141-4853-9987-840c785148d6" />
+
 
 ### 3. Navigation
 
@@ -72,7 +77,8 @@ Flower Discovery has the power to transform your world, whether you're a botanis
 
 ## Wireframes
 
-[Add picture of your hand sketched wireframes in this section] <img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
+![IMG_1416](https://github.com/user-attachments/assets/3a48b5e2-cb70-4109-bead-2b498e8392d0)
+
 
 <br>
 
